@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+Changes made to this file.
 <c:redirect url="/getCategories.json"></c:redirect>
 </body>
 </html>
